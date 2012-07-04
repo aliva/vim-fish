@@ -54,3 +54,5 @@ syntax keyword shFunctionKey switch
 syntax keyword shFunctionKey test
 syntax keyword shFunctionKey ulimit
 syntax keyword shFunctionKey while
+
+syntax keyword shFunctionKey in
